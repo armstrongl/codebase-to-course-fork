@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "codebase-to-course",
+  "version": "1.0.0",
+  "description": "Turn any codebase into a beautiful, interactive single-page HTML course that teaches how the code works to non-technical people.",
+  "author": {
+    "name": "armstrongl",
+    "email": "larah@mcnuggies.dev",
+    "url": "https://github.com/armstrongl"
+  },
+  "repository": "https://github.com/armstrongl/codebase-to-course-fork",
+  "keywords": [
+    "education",
+    "codebase",
+    "course",
+    "interactive",
+    "tutorial",
+    "html"
+  ]
+}

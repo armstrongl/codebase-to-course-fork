@@ -89,4 +89,4 @@ codebase-to-course/
 
 ---
 
-Built by [Zara](https://x.com/zarazhangrui) with Claude Code.
+Forked and maintained by [armstrongl](https://github.com/armstrongl). Originally built by [Zara](https://x.com/zarazhangrui) with Claude Code.
